@@ -1,4 +1,4 @@
-# handbook
+# Handbook
 The IRT Global Company Handbook
 
 Intention 
